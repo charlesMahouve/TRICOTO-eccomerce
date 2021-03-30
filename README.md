@@ -1,1 +1,1 @@
-# TRICOTO-eccomerce
+# TRICOTO-ecomerce
